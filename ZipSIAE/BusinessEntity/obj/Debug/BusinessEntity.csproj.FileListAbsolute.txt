@@ -1,0 +1,5 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Debug\BusinessEntity.pdb

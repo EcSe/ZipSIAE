@@ -1,0 +1,14 @@
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\obj\Debug\Zip.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\Zip.dll.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\Zip.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\Zip.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\DocumentFormat.OpenXml.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\EXIFextractor.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\bin\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\obj\Debug\Zip.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\Zip\obj\Debug\Zip.pdb

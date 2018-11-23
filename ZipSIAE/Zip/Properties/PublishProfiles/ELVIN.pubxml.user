@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ELVIN\Desktop\Zip</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BusinessEntity.dll">
+      <publishTime>11/21/2018 09:43:02</publishTime>
+    </File>
+    <File Include="bin/BusinessLogic.dll">
+      <publishTime>11/21/2018 09:43:07</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>11/19/2018 21:05:52</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>01/06/2018 01:25:34</publishTime>
+    </File>
+    <File Include="bin/EXIFextractor.dll">
+      <publishTime>09/07/2005 18:27:44</publishTime>
+    </File>
+    <File Include="bin/Zip.dll">
+      <publishTime>11/23/2018 11:15:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="css/Zip.css">
+      <publishTime>11/21/2018 06:53:04</publishTime>
+    </File>
+    <File Include="DescargaZip.aspx">
+      <publishTime>11/21/2018 06:42:15</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/20/2018 14:03:28</publishTime>
+    </File>
+    <File Include="img/load.gif">
+      <publishTime>11/21/2018 00:32:50</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionAceptacionProtocoloIIBB_A.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionAceptacionProtocoloIIBB_B.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionAceptacionProtocoloOmnidireccional.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionAceptacionProtocoloSectorial.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionPTPLicenciado.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaInstalacionPTPNoLicenciado.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaSeguridadAccesoDistritalDistribucion.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaSeguridadAccesoIntermedioTerminal.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaSeguridadDistribucionDistritalDistribucion.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ActaSeguridadDistribucionIntermedioTerminal.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/Anexo2InventarioPMP.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/Anexo2InventarioPTP.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/Anexo3ReporteFotográficoCMM4.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/EstudioCampo.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/InstalaciondePozoaTierraTipoA.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/InstalaciondePozoaTierraTipoB.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/ProtocoloInstalacion.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/PruebaInterferencia.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/PruebasDeServicioDITGPMP.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Reportes/PruebasDeServicioDITGPTP.xlsx">
+      <publishTime>11/19/2018 13:57:17</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.js">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.js.map">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js">
+      <publishTime>11/20/2018 14:16:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js.map">
+      <publishTime>11/20/2018 14:16:15</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/20/2018 14:16:15</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js.map">
+      <publishTime>11/20/2018 14:16:15</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/20/2018 14:16:15</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js.map">
+      <publishTime>11/20/2018 14:16:15</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js">
+      <publishTime>11/20/2018 14:16:05</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js.map">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js.map">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js.map">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js.map">
+      <publishTime>11/20/2018 14:16:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.js">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.min.js">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.min.map">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.slim.js">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.slim.min.js">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.0.0.slim.min.map">
+      <publishTime>11/20/2018 14:15:32</publishTime>
+    </File>
+    <File Include="Scripts/js/Zip.js">
+      <publishTime>11/21/2018 00:33:18</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js">
+      <publishTime>11/20/2018 14:15:51</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/README.md">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js.map">
+      <publishTime>11/20/2018 14:15:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/23/2018 11:15:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

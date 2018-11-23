@@ -1,0 +1,101 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE - copia (7)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\Downloads\SIAE\FUENTES\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\carlos\ownCloud\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\ownCloud2\elvin\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\EXIFextractor.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\EXIFextractor.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\BusinessEntity.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\EXIFextractor.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessLogic\obj\Debug\BusinessLogic.pdb

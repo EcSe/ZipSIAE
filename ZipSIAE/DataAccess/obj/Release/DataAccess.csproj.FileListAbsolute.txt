@@ -1,0 +1,14 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\DataAccess\bin\Release\DataAccess.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\DataAccess\obj\Release\DataAccess.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\SIAE\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\DataAccess\bin\Release\DataAccess.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\DataAccess\obj\Release\DataAccess.dll
+C:\Users\Elvin Salinas\Desktop\Proyectos\ProyectoSIAE\SIAE\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\bin\Release\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\obj\Release\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\obj\Release\DataAccess.pdb
