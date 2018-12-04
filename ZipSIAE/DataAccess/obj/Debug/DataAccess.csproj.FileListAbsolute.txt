@@ -34,3 +34,4 @@ C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\bin\De
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\bin\Debug\DataAccess.pdb
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

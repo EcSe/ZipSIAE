@@ -12,3 +12,8 @@ C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\bin\Release\
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\bin\Release\DataAccess.pdb
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\obj\Release\DataAccess.dll
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\SIAE\SIAE\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\bin\Release\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Release\DataAccess.dll
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\DataAccess\obj\Release\DataAccess.pdb

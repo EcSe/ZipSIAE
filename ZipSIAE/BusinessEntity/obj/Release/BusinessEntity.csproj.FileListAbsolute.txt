@@ -2,3 +2,4 @@ C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\bi
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\bin\Release\BusinessEntity.pdb
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Release\BusinessEntity.dll
 C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Release\BusinessEntity.pdb
+C:\Users\ELVIN\Desktop\Proyectos\Visual Studio\ZipSIAE\ZipSIAE\BusinessEntity\obj\Release\BusinessEntity.csprojResolveAssemblyReference.cache

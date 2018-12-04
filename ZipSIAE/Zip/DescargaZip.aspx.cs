@@ -17,9 +17,7 @@ namespace Zip
         }
 
         protected void btnDescargar_Click(object sender, EventArgs e)
-        {
-
-           
+        { 
             String IdNodo = txtNodo.Text;
             EntidadDetalleBE rutaVirtualTemporalBE = new EntidadDetalleBE();
             rutaVirtualTemporalBE.Entidad.IdEntidad = "CONF";
@@ -32,8 +30,11 @@ namespace Zip
 
             String nombreCarpetaZip = IdNodo + ".zip";
 
+            //RUTA VIRTUAL TEMPORAL PARA DESARROLLO = //localhost/SIAE_ARCHIVOS/TEMPORAL
             ScriptManager.RegisterStartupScript(Page, Page.GetType(), "impresion", "window.open('" + rutaVirtualTemporalBE.ValorCadena1 + "/" + nombreCarpetaZip + "');", true);
 
+            //RUTA VIRTUAL TEMPORAL PARA PRODUCCION = /SIAE_ARCHIVOS/TEMPORAL
+            //ScriptManager.RegisterStartupScript(Page, Page.GetType(), "impresion", "window.open('/SIAE_ARCHIVOS/TEMPORAL/" + nombreCarpetaZip + "');", true);
 
         }
     }
